@@ -1,0 +1,91 @@
+﻿video_id,verdict,reasons,domain,tier,duration_min,min_s,max_s,chunks,chunks_per_min,median_chunk_s,shortest_chunk_s,longest_chunk_s,subtitle_lines,mid_sentence_share,mid_sentence_share_fixed_30s,coverage_problems,limit_problems
+026dzf-vc5g,PASS,,Artistic Performance,short,1.06,5.0,30.0,3,2.82,23.9,10.1,29.7,0,,,0,0
+1NYQf_OXDqI,PASS,,Film & Television,long,59.2,10.0,120.0,141,2.38,18.5,10.0,96.1,742,0.3,0.754,0,0
+27YZLpw0M98,PASS,,Life Record,short,1.7,5.0,30.0,12,7.06,8.0,5.3,13.1,40,0.273,1.0,0,0
+2gFxZmb0dMo,PASS,,Life Record,short,1.26,5.0,30.0,5,3.98,12.0,5.5,28.5,33,0.0,1.0,0,0
+2iHmlBmLKUE,PASS,,Life Record,short,1.13,5.0,30.0,4,3.55,16.2,14.5,20.5,23,0.0,1.0,0,0
+2QTiAmvygC4,PASS,,Artistic Performance,short,1.44,5.0,30.0,5,3.48,17.6,6.4,26.6,21,0.25,1.0,0,0
+3EQLFHRHpag,PASS,,Film & Television,medium,12.43,8.0,90.0,41,3.3,12.5,8.4,87.5,262,0.175,0.875,0,0
+3EQzRz-V7uE,WARN,"1.17 chunks/min, far below the Life Record medium median of 2.93",Life Record,medium,8.55,8.0,90.0,10,1.17,55.7,10.1,89.7,0,,,0,0
+4qYqPmIO0v0,PASS,,Sports Competition,long,54.57,10.0,120.0,58,1.06,56.2,10.1,117.8,926,0.105,0.835,0,0
+5i5Be73ESUc,PASS,,Life Record,long,30.73,10.0,120.0,36,1.17,54.1,10.5,110.3,646,0.229,0.934,0,0
+5LU_XY0z2ZY,PASS,,Knowledge,long,32.6,10.0,120.0,61,1.87,29.6,10.1,60.2,714,0.083,0.969,0,0
+6DbsOZU8mBM,PASS,,Life Record,medium,14.88,8.0,90.0,50,3.36,13.8,8.1,54.6,500,0.041,0.931,0,0
+7fnVcXfPe5c,WARN,"0.87 chunks/min, far below the Knowledge medium median of 2.18",Knowledge,medium,4.6,8.0,90.0,4,0.87,69.3,61.8,75.6,70,0.0,0.778,0,0
+7iXM5aq53Ts,PASS,,Knowledge,short,1.64,5.0,30.0,7,4.26,9.8,6.0,28.0,45,0.0,1.0,0,0
+8TNPeimqOO0,PASS,,Knowledge,short,1.83,5.0,30.0,10,5.47,9.0,5.3,29.2,46,0.222,1.0,0,0
+913JhnW28U4,WARN,50% of boundaries cut through a line,Sports Competition,short,0.96,5.0,30.0,3,3.12,16.1,13.7,27.8,21,0.5,1.0,0,0
+9v9NHoTXc-Q,WARN,80% of boundaries cut through a line,Life Record,short,0.95,5.0,30.0,6,6.35,9.3,5.5,13.4,7,0.8,1.0,0,0
+_qepWb_NVj4,PASS,,Knowledge,medium,7.67,8.0,90.0,12,1.56,36.4,8.3,82.5,221,0.0,0.933,0,0
+_w4XRiUVfY4,PASS,,Artistic Performance,medium,12.34,8.0,90.0,23,1.86,22.8,10.4,89.9,0,,,0,0
+A30IuIjQYYg,WARN,38% of boundaries cut through a line,Life Record,medium,4.18,8.0,90.0,14,3.35,14.4,8.2,53.8,28,0.385,0.375,0,0
+a7jZszvFpTY,PASS,,Artistic Performance,medium,5.93,8.0,90.0,17,2.87,16.4,8.8,68.1,88,0.125,0.636,0,0
+a8IGDMrohnY,PASS,,Artistic Performance,medium,5.18,8.0,90.0,9,1.74,31.7,8.7,89.7,0,,,0,0
+ACvLYz9nHvg,PASS,,Sports Competition,medium,11.01,8.0,90.0,11,1.0,63.9,15.7,65.1,0,,,0,0
+awHc8IySU-I,PASS,,Sports Competition,medium,10.55,8.0,90.0,18,1.71,35.7,9.1,78.1,0,,,0,0
+bepwr1-CNRU,PASS,,Knowledge,medium,18.01,8.0,90.0,54,3.0,13.3,8.0,72.3,346,0.038,0.75,0,0
+biiLScgI3u4,WARN,"0.97 chunks/min, far below the Life Record medium median of 2.93",Life Record,medium,5.17,8.0,90.0,5,0.97,61.3,49.0,81.1,27,0.25,1.0,0,0
+c0siCya457M,PASS,,Film & Television,short,1.81,5.0,30.0,8,4.42,13.7,6.6,21.3,47,0.143,1.0,0,0
+Cb91B0wZYLE,PASS,,Artistic Performance,long,33.61,10.0,120.0,26,0.77,77.6,18.7,114.2,665,0.04,0.97,0,0
+D0ZMmQjKn2Q,PASS,,Artistic Performance,long,41.89,10.0,120.0,69,1.65,27.8,10.0,119.1,405,0.235,0.675,0,0
+DF_J3vCcbBA,PASS,,Knowledge,short,1.56,5.0,30.0,7,4.5,12.7,5.5,26.5,0,,,0,0
+DfZIv2FKWj4,PASS,,Sports Competition,medium,6.42,8.0,90.0,8,1.25,45.2,9.7,87.6,119,0.0,0.833,0,0
+ElWG0_kjy_Y,WARN,34% of boundaries cut through a line,Knowledge,long,32.89,10.0,120.0,59,1.79,20.0,10.2,112.8,277,0.345,0.908,0,0
+eZ5lFBPpRkM,PASS,,Life Record,long,53.69,10.0,120.0,168,3.13,17.5,10.1,55.1,881,0.246,0.907,0,0
+FkrIcmXvv18,PASS,,Artistic Performance,long,50.96,10.0,120.0,63,1.24,32.2,10.2,119.2,1082,0.097,0.901,0,0
+FlcVBKTSjRs,PASS,,Life Record,short,0.87,5.0,30.0,3,3.46,17.4,14.9,19.8,16,0.0,1.0,0,0
+frX8GujpmkI,PASS,,Life Record,short,1.0,5.0,30.0,6,5.99,7.7,5.5,24.2,0,,,0,0
+G267g0DpCVg,WARN,50% of boundaries cut through a line,Film & Television,short,1.0,5.0,30.0,3,3.0,16.3,15.3,28.4,7,0.5,1.0,0,0
+g7PjwIzqyCQ,PASS,,Multilingual,short,1.6,5.0,30.0,9,5.62,8.1,5.1,18.6,38,0.25,1.0,0,0
+g8UiXbc19og,PASS,,Sports Competition,long,44.05,10.0,120.0,46,1.04,47.4,11.5,119.7,1037,0.111,0.966,0,0
+gTPHH880Cyc,PASS,,Sports Competition,long,41.66,10.0,120.0,44,1.06,46.2,10.0,118.7,852,0.233,0.904,0,0
+HK13nVxBYxI,PASS,,Film & Television,medium,6.87,8.0,90.0,9,1.31,40.0,23.0,77.2,172,0.0,1.0,0,0
+IaTaaNinolU,PASS,,Knowledge,medium,7.96,8.0,90.0,10,1.26,51.7,15.3,69.3,186,0.0,0.933,0,0
+J5Npf2xJpag,WARN,31% of boundaries cut through a line,Knowledge,long,35.3,10.0,120.0,98,2.78,15.8,10.0,88.8,419,0.309,0.986,0,0
+jkNxmTrrZSk,PASS,,Knowledge,short,1.71,5.0,30.0,4,2.33,27.5,18.1,29.8,10,0.0,0.333,0,0
+K0mjUgHKfJo,PASS,,Knowledge,short,1.82,5.0,30.0,8,4.41,11.9,8.2,22.8,35,0.286,1.0,0,0
+K7YNoRZMv2k,PASS,,Life Record,long,30.64,10.0,120.0,64,2.09,19.8,10.2,95.1,835,0.0,0.967,0,0
+KlbDo9o5SC8,WARN,33% of boundaries cut through a line,Sports Competition,medium,12.59,8.0,90.0,31,2.46,16.9,8.3,88.9,186,0.333,0.72,0,0
+LCfBYE97rFk,PASS,,Knowledge,long,40.95,10.0,120.0,104,2.54,17.7,10.1,112.2,613,0.058,0.691,0,0
+LlajSKnbcGk,PASS,,Sports Competition,short,0.68,5.0,30.0,2,2.94,20.4,12.6,28.2,2,0.0,1.0,0,0
+lNvBXLbInXE,WARN,54% of boundaries cut through a line,Life Record,medium,12.15,8.0,90.0,38,3.13,15.8,8.0,73.7,104,0.541,0.833,0,0
+Lv7cYKTYE2g,PASS,,Multilingual,short,1.27,5.0,30.0,4,3.14,19.9,13.8,22.7,29,0.0,1.0,0,0
+M69Sn3OERZo,PASS,,Film & Television,short,0.78,5.0,30.0,3,3.83,14.0,11.7,21.3,0,,,0,0
+MaAv2IVzqhM,PASS,,Knowledge,medium,5.27,8.0,90.0,22,4.18,12.6,9.1,30.8,116,0.0,0.8,0,0
+md6mZDhuR9s,PASS,,Sports Competition,long,57.84,10.0,120.0,68,1.18,40.5,10.1,118.7,1118,0.224,0.809,0,0
+mOiEOs3ZlT8,PASS,,Knowledge,long,33.45,10.0,120.0,100,2.99,15.9,10.0,66.1,699,0.091,0.924,0,0
+MPfuSfiZ96A,PASS,,Film & Television,short,1.3,5.0,30.0,9,6.93,8.0,5.2,12.6,15,0.25,1.0,0,0
+NEFG7YcIDcI,PASS,,Knowledge,short,1.62,5.0,30.0,6,3.71,15.5,6.3,29.7,41,0.2,1.0,0,0
+NeLj-gLWgug,WARN,87% of boundaries cut through a line,Life Record,medium,5.87,8.0,90.0,16,2.73,20.4,8.3,41.3,26,0.867,1.0,0,0
+O7zcPvQDIMU,PASS,,Knowledge,long,46.59,10.0,120.0,93,2.0,21.8,10.1,118.9,1012,0.065,0.968,0,0
+OGQ7KwUXuBk,PASS,,Life Record,short,1.93,5.0,30.0,11,5.69,9.3,5.2,18.9,19,0.2,1.0,0,0
+ooqdg9Wr-mo,PASS,,Life Record,medium,8.09,8.0,90.0,38,4.7,12.7,8.2,25.5,335,0.0,0.875,0,0
+P69idA8JO98,WARN,44% of boundaries cut through a line,Artistic Performance,long,33.37,10.0,120.0,28,0.84,68.1,12.7,119.3,510,0.444,0.909,0,0
+pcm_E7UoKLo,PASS,,Artistic Performance,short,1.4,5.0,30.0,6,4.29,11.6,8.9,25.1,28,0.2,1.0,0,0
+qd2ivr-5oEM,PASS,,Film & Television,long,44.27,10.0,120.0,120,2.71,17.1,10.0,118.2,1122,0.059,0.932,0,0
+QrmxMNBhH2Q,PASS,,Film & Television,medium,10.1,8.0,90.0,28,2.77,17.4,8.1,56.4,0,,,0,0
+QxYHkKLaFmY,WARN,36% of boundaries cut through a line,Film & Television,medium,9.82,8.0,90.0,15,1.53,29.0,13.7,89.2,66,0.357,0.474,0,0
+Qyg_91gNHCc,WARN,78% of boundaries cut through a line,Knowledge,short,1.94,5.0,30.0,10,5.16,11.2,6.3,21.1,9,0.778,1.0,0,0
+RgJVug6iNs8,PASS,,Artistic Performance,long,47.89,10.0,120.0,35,0.73,83.2,16.9,118.6,402,0.206,0.726,0,0
+RU8IfXp7LbE,PASS,,Life Record,short,1.22,5.0,30.0,8,6.58,8.8,5.5,15.1,1,0.0,0.0,0,0
+RwdvZLz-aSk,WARN,"3.38 chunks/min, far above the Sports Competition long median of 1.06",Sports Competition,long,34.88,10.0,120.0,118,3.38,15.1,10.0,60.4,972,0.06,0.928,0,0
+S8w44Tl5atk,PASS,,Sports Competition,long,35.38,10.0,120.0,27,0.76,78.4,10.1,119.9,492,0.038,0.886,0,0
+SB4NLADmT_k,PASS,,Sports Competition,long,38.44,10.0,120.0,36,0.94,58.5,12.1,118.3,870,0.171,0.868,0,0
+SBssmtYTJpM,PASS,,Sports Competition,medium,6.63,8.0,90.0,21,3.17,15.9,8.0,81.8,0,,,0,0
+UIX6f0xMQ2U,WARN,75% of boundaries cut through a line,Sports Competition,medium,5.96,8.0,90.0,13,2.18,19.5,8.4,84.5,58,0.75,0.636,0,0
+URUJD5NEXC8,PASS,,Knowledge,medium,7.36,8.0,90.0,16,2.18,15.3,9.7,87.7,99,0.067,0.714,0,0
+uVR-DZQuRbM,PASS,,Life Record,short,1.5,5.0,30.0,10,6.68,8.5,5.4,15.9,33,0.111,1.0,0,0
+vDzNVHXc66U,WARN,76% of boundaries cut through a line,Life Record,long,32.69,10.0,120.0,30,0.92,74.5,11.0,116.0,140,0.759,0.862,0,0
+vf3sPa2W0sA,PASS,,Sports Competition,medium,4.22,8.0,90.0,8,1.9,25.0,9.5,83.5,0,,,0,0
+vzfTpidE5wg,PASS,,Life Record,long,33.12,10.0,120.0,53,1.6,32.2,10.2,112.0,854,0.192,0.924,0,0
+wGfRSojH0PE,PASS,,Sports Competition,short,1.65,5.0,30.0,5,3.02,20.4,18.0,21.4,33,0.0,1.0,0,0
+x-ccfWcbht4,PASS,,Life Record,medium,14.53,8.0,90.0,38,2.62,15.0,8.0,86.2,365,0.027,0.931,0,0
+Xjf5N9S3jAA,PASS,,Sports Competition,long,47.43,10.0,120.0,53,1.12,45.8,10.3,119.5,917,0.135,0.702,0,0
+xKiRmesHWIA,WARN,50% of boundaries cut through a line,Knowledge,long,31.6,10.0,120.0,41,1.3,35.5,12.7,108.1,315,0.5,1.0,0,0
+xvQOEdwAgj0,PASS,,Sports Competition,long,41.14,10.0,120.0,33,0.8,81.8,11.7,118.7,1076,0.062,0.951,0,0
+y9Fne3oUwX4,PASS,,Life Record,long,57.88,10.0,120.0,90,1.55,28.8,10.1,119.0,1103,0.079,0.678,0,0
+YlAefotZNAc,PASS,,Film & Television,short,1.73,5.0,30.0,7,4.05,14.2,5.2,27.1,49,0.167,1.0,0,0
+YPaLGP_xr-w,PASS,,Knowledge,short,1.74,5.0,30.0,10,5.76,7.2,5.8,27.2,40,0.222,1.0,0,0
+YtAL8y2lACs,PASS,,Knowledge,long,47.33,10.0,120.0,127,2.68,17.2,10.3,75.3,930,0.151,0.798,0,0
+zIbNJCSCEjk,PASS,,Knowledge,medium,10.1,8.0,90.0,27,2.67,18.4,8.0,61.9,298,0.0,0.95,0,0
+ZQIZx5Oqw88,PASS,,Sports Competition,medium,10.38,8.0,90.0,14,1.35,35.5,9.8,86.7,244,0.154,0.95,0,0

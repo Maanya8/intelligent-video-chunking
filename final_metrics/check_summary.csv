@@ -1,0 +1,18 @@
+﻿domain,tier,videos,minutes,chunks,chunks_per_hour,median_chunk_s,mid_sentence_share,mid_sentence_share_fixed_30s,pass,warn,fail
+Artistic Performance,long,5,207.7,221,63.8,68.1,0.204,0.836,4,1,0
+Artistic Performance,medium,3,23.4,49,125.4,22.8,0.125,0.636,3,0,0
+Artistic Performance,short,3,3.9,14,215.4,17.6,0.225,1.0,3,0,0
+Film & Television,long,2,103.5,261,151.3,17.8,0.179,0.843,2,0,0
+Film & Television,medium,4,39.2,93,142.3,23.2,0.177,0.783,3,1,0
+Film & Television,short,5,6.6,30,271.9,14.0,0.265,1.0,4,1,0
+Knowledge,long,8,300.7,683,136.3,18.9,0.2,0.905,5,3,0
+Knowledge,medium,7,61.0,145,142.7,18.4,0.015,0.837,6,1,0
+Knowledge,short,8,13.9,62,268.4,11.6,0.244,0.905,7,1,0
+Life Record,long,6,238.8,441,110.8,30.5,0.251,0.879,5,1,0
+Life Record,medium,8,73.4,209,170.8,15.4,0.302,0.849,3,5,0
+Life Record,short,9,11.6,65,337.4,9.3,0.173,0.875,8,1,0
+Multilingual,short,2,2.9,13,271.8,14.0,0.125,1.0,2,0,0
+Sports Competition,long,9,395.4,483,73.3,47.4,0.127,0.872,8,1,0
+Sports Competition,medium,8,67.8,124,109.8,30.2,0.309,0.785,6,2,0
+Sports Competition,short,3,3.3,10,182.4,20.4,0.167,1.0,2,1,0
+ALL,ALL,90,1553.0,2903,112.2,18.0,0.193,0.878,71,19,0

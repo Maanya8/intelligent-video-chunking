@@ -1,0 +1,91 @@
+video_id,status,tier,domain,codec,width,height,fps,duration_s,bitrate_bps,size_mb,has_audio,subtitle_lines,decoded_frames,pictures_1fps,decode_seconds
+026dzf-vc5g,already done,short,Artistic Performance,h264,1280,720,29.97,63.73,779224,6.2,True,0,1910,64,1.5
+27YZLpw0M98,already done,short,Life Record,h264,1280,720,25.0,102.04,827502,10.6,True,40,2551,103,4.2
+2gFxZmb0dMo,already done,short,Life Record,h264,1280,720,23.976,75.325,2241668,21.1,True,33,1806,76,3.4
+2iHmlBmLKUE,already done,short,Life Record,h264,1280,720,25.0,67.52,731662,6.2,True,23,1688,68,3.5
+2QTiAmvygC4,already done,short,Artistic Performance,h264,1280,720,29.97,86.119,531230,5.7,True,21,2581,87,5.7
+3EQLFHRHpag,already done,medium,Film & Television,h264,1280,720,25.0,746.0,765524,71.4,True,262,18650,746,40.5
+3EQzRz-V7uE,already done,medium,Life Record,h264,1280,720,30.0,512.9,920380,59.0,True,0,15387,513,30.4
+5i5Be73ESUc,ok,long,Life Record,h264,1280,720,30.0,1843.833,1548791,357.0,True,646,55315,1844,123.4
+1NYQf_OXDqI,ok,long,Film & Television,h264,1280,714,23.976,3552.132,876591,389.2,True,742,85166,3553,233.4
+4qYqPmIO0v0,ok,long,Sports Competition,h264,1280,720,29.839,3274.424,2234262,914.5,True,926,97704,3275,234.9
+7fnVcXfPe5c,ok,medium,Knowledge,h264,640,360,25.0,276.0,162321,5.6,True,70,6900,276,12.6
+7iXM5aq53Ts,already done,short,Knowledge,h264,1280,720,29.97,98.665,450132,5.6,True,45,2957,99,5.7
+8TNPeimqOO0,already done,short,Knowledge,h264,1280,720,29.97,109.71,498657,6.8,True,46,3288,110,6.3
+913JhnW28U4,already done,short,Sports Competition,h264,1280,720,25.0,57.6,1207237,8.7,True,21,1440,58,3.0
+9v9NHoTXc-Q,already done,short,Life Record,h264,1280,720,25.0,56.72,1398270,9.9,True,7,1418,57,3.4
+_qepWb_NVj4,already done,medium,Knowledge,h264,1280,720,29.97,460.26,703349,40.5,True,221,13794,461,22.6
+_w4XRiUVfY4,already done,medium,Artistic Performance,h264,640,360,23.976,740.156,520195,48.1,True,0,17746,741,27.6
+A30IuIjQYYg,already done,medium,Life Record,h264,1280,720,25.0,250.88,775921,24.3,True,28,6272,251,11.4
+a7jZszvFpTY,already done,medium,Artistic Performance,h264,1280,720,29.97,355.922,1118941,49.8,True,88,10667,356,18.5
+a8IGDMrohnY,already done,medium,Artistic Performance,h264,1280,720,25.0,310.52,653925,25.4,True,0,7763,311,16.2
+ACvLYz9nHvg,already done,medium,Sports Competition,h264,1280,720,30.0,660.733,1537400,127.0,True,0,19822,661,40.7
+awHc8IySU-I,already done,medium,Sports Competition,h264,1280,720,25.0,632.72,1161548,91.9,True,0,15818,633,37.3
+bepwr1-CNRU,already done,medium,Knowledge,h264,640,360,30.0,1080.567,232383,31.4,True,346,32417,1081,46.5
+biiLScgI3u4,already done,medium,Life Record,h264,640,360,15.0,310.133,283096,11.0,True,27,4652,311,7.7
+c0siCya457M,already done,short,Film & Television,h264,1280,720,25.0,108.52,1155771,15.7,True,47,2713,109,4.2
+Cb91B0wZYLE,already done,long,Artistic Performance,h264,1280,720,29.97,2016.615,709280,178.8,True,665,60438,2017,105.7
+D0ZMmQjKn2Q,already done,long,Artistic Performance,h264,640,360,25.0,2513.16,306540,96.3,True,405,62829,2514,102.5
+DF_J3vCcbBA,already done,short,Knowledge,h264,1280,720,23.976,93.427,1024734,12.0,True,0,2240,94,3.6
+DfZIv2FKWj4,already done,medium,Sports Competition,h264,1280,720,25.0,385.44,1343279,64.7,True,119,9636,386,17.9
+ElWG0_kjy_Y,already done,long,Knowledge,h264,1280,720,29.97,1973.373,857787,211.6,True,277,59142,1974,118.4
+eZ5lFBPpRkM,already done,long,Life Record,h264,1280,720,29.97,3221.485,1229716,495.2,True,881,96548,3222,217.5
+FkrIcmXvv18,already done,long,Artistic Performance,h264,1280,720,23.976,3057.429,1146004,438.0,True,1082,73305,3058,193.9
+FlcVBKTSjRs,already done,short,Life Record,h264,1280,720,29.97,52.085,372149,2.4,True,16,1561,53,3.2
+frX8GujpmkI,already done,short,Life Record,h264,640,360,25.0,60.08,706925,5.3,True,0,1502,61,2.5
+G267g0DpCVg,already done,short,Film & Television,h264,1280,676,23.976,60.018,1285719,9.6,True,7,1439,60,4.2
+g7PjwIzqyCQ,already done,short,Multilingual,h264,640,360,29.97,96.029,456932,5.5,True,38,2878,96,3.9
+g8UiXbc19og,already done,long,Sports Competition,h264,1280,720,25.0,2643.04,1307039,431.8,True,1037,66076,2644,183.4
+gTPHH880Cyc,already done,long,Sports Competition,h264,1280,720,25.0,2499.52,1477464,461.6,True,852,62488,2500,173.6
+HK13nVxBYxI,already done,medium,Film & Television,h264,1280,720,25.0,412.16,954028,49.2,True,172,10304,413,30.3
+IaTaaNinolU,already done,medium,Knowledge,h264,1280,720,29.97,477.744,262040,15.6,True,186,14318,478,38.0
+J5Npf2xJpag,already done,long,Knowledge,h264,1280,720,24.0,2117.75,475547,125.9,True,419,50826,2118,142.5
+jkNxmTrrZSk,already done,short,Knowledge,h264,1280,720,24.0,102.792,939438,12.1,True,10,2467,103,7.4
+K0mjUgHKfJo,already done,short,Knowledge,h264,640,360,29.97,108.909,315913,4.3,True,35,3264,109,5.8
+K7YNoRZMv2k,already done,long,Life Record,h264,1280,720,30.0,1838.2,667867,153.5,True,835,55146,1839,132.8
+KlbDo9o5SC8,already done,medium,Sports Competition,h264,1280,720,30.0,755.5,1233927,116.5,True,186,22665,756,54.3
+LCfBYE97rFk,already done,long,Knowledge,h264,1280,720,23.976,2456.704,610579,187.5,True,613,58902,2457,145.0
+LlajSKnbcGk,already done,short,Sports Competition,h264,1280,720,30.0,40.8,2283855,11.7,True,2,1224,41,2.7
+lNvBXLbInXE,already done,medium,Life Record,h264,640,360,25.0,728.72,230677,21.0,True,104,18218,729,26.3
+Lv7cYKTYE2g,already done,short,Multilingual,h264,1280,720,25.0,76.4,366996,3.5,True,29,1910,77,3.5
+M69Sn3OERZo,already done,short,Film & Television,h264,1280,720,30.0,47.0,343723,2.0,True,0,1410,47,2.5
+MaAv2IVzqhM,already done,medium,Knowledge,h264,1280,720,29.97,315.949,1193061,47.1,True,116,9469,316,15.9
+md6mZDhuR9s,already done,long,Sports Competition,h264,1280,720,25.0,3470.44,879255,381.4,True,1118,86761,3471,213.0
+mOiEOs3ZlT8,already done,long,Knowledge,h264,1280,720,23.976,2007.047,373294,93.7,True,699,48121,2008,126.3
+MPfuSfiZ96A,already done,short,Film & Television,h264,1280,720,25.0,77.92,1564678,15.2,True,15,1948,78,5.6
+NEFG7YcIDcI,already done,short,Knowledge,h264,1280,720,29.97,96.93,1152560,14.0,True,41,2905,97,7.0
+NeLj-gLWgug,already done,medium,Life Record,h264,1280,720,23.976,352.269,1037791,45.7,True,26,8446,353,24.0
+O7zcPvQDIMU,already done,long,Knowledge,h264,1280,720,25.0,2795.68,655787,229.2,True,1012,69892,2796,165.4
+OGQ7KwUXuBk,already done,short,Life Record,h264,1280,720,23.976,115.991,1385700,20.1,True,19,2781,116,8.4
+ooqdg9Wr-mo,already done,medium,Life Record,h264,1280,720,29.97,485.319,2229121,135.2,True,335,14545,486,34.3
+P69idA8JO98,already done,long,Artistic Performance,h264,640,360,29.97,2002.434,504966,126.4,True,510,60013,2003,104.9
+pcm_E7UoKLo,already done,short,Artistic Performance,h264,640,360,25.0,84.0,429009,4.5,True,28,2100,84,3.1
+qd2ivr-5oEM,already done,long,Film & Television,h264,1280,720,30.0,2656.5,490544,162.9,True,1122,79695,2657,188.6
+QrmxMNBhH2Q,already done,medium,Film & Television,h264,1280,720,30.0,605.967,1476962,111.9,True,0,18179,606,44.7
+QxYHkKLaFmY,already done,medium,Film & Television,h264,1280,720,29.97,588.988,592046,43.6,True,66,17652,589,43.3
+Qyg_91gNHCc,already done,short,Knowledge,h264,1280,720,24.0,116.292,1813149,26.4,True,9,2791,117,8.4
+RgJVug6iNs8,already done,long,Artistic Performance,h264,1280,720,29.97,2873.37,1351732,485.5,True,402,86115,2874,220.7
+RU8IfXp7LbE,already done,short,Life Record,h264,1280,720,29.97,72.973,1271589,11.6,True,1,2187,73,5.8
+RwdvZLz-aSk,already done,long,Sports Competition,h264,1280,720,25.0,2092.64,883841,231.2,True,972,52316,2093,159.3
+S8w44Tl5atk,already done,long,Sports Competition,h264,1280,720,30.0,2122.933,880846,233.7,True,492,63688,2123,166.5
+SB4NLADmT_k,already done,long,Sports Competition,h264,1280,720,29.97,2306.271,2178062,627.9,True,870,69119,2307,191.5
+SBssmtYTJpM,already done,medium,Sports Competition,h264,1280,720,25.0,397.56,2191219,108.9,True,0,9939,398,32.5
+UIX6f0xMQ2U,already done,medium,Sports Competition,h264,1280,720,25.0,357.72,1093050,48.9,True,58,8943,358,29.4
+URUJD5NEXC8,already done,medium,Knowledge,h264,1280,720,30.0,441.333,600374,33.1,True,99,13240,442,35.0
+uVR-DZQuRbM,already done,short,Life Record,h264,640,360,25.0,89.88,451971,5.1,True,33,2247,90,5.0
+vDzNVHXc66U,already done,long,Life Record,h264,1280,720,30.0,1961.3,2004000,491.3,True,140,58839,1962,155.5
+vf3sPa2W0sA,already done,medium,Sports Competition,h264,1280,720,30.0,253.067,1043443,33.0,True,0,7592,254,21.8
+vzfTpidE5wg,already done,long,Life Record,h264,1280,720,29.97,1987.419,568115,141.1,True,854,59563,1988,146.0
+wGfRSojH0PE,already done,short,Sports Competition,h264,1280,720,25.0,99.24,2343120,29.1,True,33,2481,100,7.7
+x-ccfWcbht4,already done,medium,Life Record,h264,1280,720,23.976,871.704,425882,46.4,True,365,20900,872,63.0
+Xjf5N9S3jAA,already done,long,Sports Competition,h264,1280,720,25.0,2845.64,715830,254.6,True,917,71141,2846,234.8
+xKiRmesHWIA,already done,long,Knowledge,h264,1280,720,25.0,1896.0,262456,62.2,True,315,47400,1896,157.7
+xvQOEdwAgj0,already done,long,Sports Competition,h264,1280,720,29.97,2468.302,1331024,410.7,True,1076,73975,2469,223.2
+y9Fne3oUwX4,already done,long,Life Record,h264,1280,720,25.0,3473.0,1372729,595.9,True,1103,86825,3473,212.6
+YlAefotZNAc,already done,short,Film & Television,h264,1280,720,25.0,103.72,413689,5.4,True,49,2593,104,7.9
+YPaLGP_xr-w,already done,short,Knowledge,h264,1280,720,23.976,104.104,1958250,25.5,True,40,2496,105,7.8
+YtAL8y2lACs,already done,long,Knowledge,h264,640,360,29.97,2839.937,298249,105.9,True,930,85113,2840,127.8
+zIbNJCSCEjk,already done,medium,Knowledge,h264,1280,720,23.976,606.272,655334,49.7,True,298,14536,607,35.6
+ZQIZx5Oqw88,already done,medium,Sports Competition,h264,1280,720,25.0,623.0,1465143,114.1,True,244,15575,623,39.0
+5LU_XY0z2ZY,ok,long,Knowledge,h264,1280,720,29.97,1955.923,294218,71.9,True,714,58619,1956,133.6
+6DbsOZU8mBM,ok,medium,Life Record,h264,1280,720,29.97,893.059,876129,97.8,True,500,26765,894,40.8

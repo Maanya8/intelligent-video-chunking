@@ -1,0 +1,22 @@
+﻿group_by,group,ours_accuracy,ours_n,fixed30_accuracy,fixed30_n,shots_accuracy,shots_n
+all,all,0.533,92,0.511,92,0.489,92
+domain,Artistic Performance,0.636,11,0.636,11,0.455,11
+domain,Film & Television,0.545,11,0.545,11,0.818,11
+domain,Knowledge,0.6,25,0.48,25,0.4,25
+domain,Life Record,0.609,23,0.609,23,0.565,23
+domain,Multilingual,0.5,2,0.5,2,0.5,2
+domain,Sports Competition,0.3,20,0.35,20,0.35,20
+tier,long,0.433,30,0.533,30,0.433,30
+tier,medium,0.467,30,0.433,30,0.433,30
+tier,short,0.688,32,0.562,32,0.594,32
+task_type,Action Reasoning,0.6,5,0.4,5,0.2,5
+task_type,Action Recognition,0.0,6,0.167,6,0.333,6
+task_type,Attribute Perception,1.0,9,0.667,9,0.556,9
+task_type,Counting Problem,0.385,13,0.462,13,0.308,13
+task_type,Information Synopsis,0.579,19,0.684,19,0.632,19
+task_type,OCR Problems,0.571,7,0.429,7,0.429,7
+task_type,Object Reasoning,0.625,8,0.625,8,0.75,8
+task_type,Object Recognition,0.583,12,0.583,12,0.75,12
+task_type,Spatial Perception,0.5,2,0.0,2,0.0,2
+task_type,Spatial Reasoning,0.667,3,0.667,3,0.333,3
+task_type,Temporal Reasoning,0.25,8,0.25,8,0.25,8

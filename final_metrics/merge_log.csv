@@ -1,0 +1,91 @@
+﻿video_id,status,domain,tier,min_s,max_s,similarity,shots_in,chunks_out,cuts_removed,by_similar,by_short_shot,by_short_chunk,by_short_last_chunk,kept_for_max,median_chunk_s,longest_chunk_s,below_min_out,above_max_out,embed_seconds,seconds_taken
+026dzf-vc5g,ok,Artistic Performance,short,5.0,30.0,0.75,19,3,16,2,12,2,0,1,23.924,29.7,0,0,0.0,0.0
+1NYQf_OXDqI,ok,Film & Television,long,10.0,120.0,0.75,939,139,800,22,402,375,1,1,18.268,245.3,0,1,0.0,0.0
+27YZLpw0M98,ok,Life Record,short,5.0,30.0,0.75,43,12,31,0,10,21,0,0,8.0,13.6,0,0,0.0,0.0
+2gFxZmb0dMo,ok,Life Record,short,5.0,30.0,0.75,35,5,30,0,20,10,0,1,11.428,29.0,0,0,0.0,0.0
+2iHmlBmLKUE,ok,Life Record,short,5.0,30.0,0.75,37,4,33,0,23,10,0,0,17.84,22.2,0,0,0.0,0.0
+2QTiAmvygC4,ok,Artistic Performance,short,5.0,30.0,0.75,6,3,3,0,1,2,0,1,8.809,70.9,0,1,0.0,0.0
+3EQLFHRHpag,ok,Film & Television,medium,8.0,90.0,0.75,134,41,93,7,24,62,0,1,12.72,88.6,0,0,0.0,0.0
+3EQzRz-V7uE,ok,Life Record,medium,8.0,90.0,0.75,12,7,5,1,1,3,0,6,89.733,132.2,0,3,0.0,0.0
+4qYqPmIO0v0,ok,Sports Competition,long,10.0,120.0,0.75,209,54,155,20,63,72,0,18,54.693,157.7,0,4,0.0,0.0
+5i5Be73ESUc,ok,Life Record,long,10.0,120.0,0.75,62,26,36,3,5,28,0,6,31.934,390.1,0,4,0.0,0.0
+5LU_XY0z2ZY,ok,Knowledge,long,10.0,120.0,0.75,93,61,32,9,9,14,0,0,29.763,61.9,0,0,0.0,0.0
+6DbsOZU8mBM,ok,Life Record,medium,8.0,90.0,0.75,275,50,225,3,111,111,0,0,14.748,54.9,0,0,0.0,0.0
+7fnVcXfPe5c,ok,Knowledge,medium,8.0,90.0,0.75,1,1,0,0,0,0,0,0,276.0,276.0,0,1,0.0,0.0
+7iXM5aq53Ts,ok,Knowledge,short,5.0,30.0,0.75,13,7,6,0,1,5,0,3,9.209,28.9,0,0,0.0,0.0
+8TNPeimqOO0,ok,Knowledge,short,5.0,30.0,0.75,20,10,10,2,4,4,0,1,9.009,29.5,0,0,0.0,0.0
+913JhnW28U4,ok,Sports Competition,short,5.0,30.0,0.75,10,3,7,3,3,1,0,0,16.08,29.2,0,0,0.0,0.0
+9v9NHoTXc-Q,ok,Life Record,short,5.0,30.0,0.75,34,6,28,0,14,14,0,0,9.92,13.4,0,0,0.0,0.0
+_qepWb_NVj4,ok,Knowledge,medium,8.0,90.0,0.75,17,12,5,2,2,1,0,3,38.371,81.7,0,0,0.0,0.0
+_w4XRiUVfY4,ok,Artistic Performance,medium,8.0,90.0,0.75,226,23,203,2,162,39,0,2,22.773,89.9,0,0,0.0,0.0
+A30IuIjQYYg,ok,Life Record,medium,8.0,90.0,0.75,88,14,74,2,30,42,0,0,14.48,53.8,0,0,0.0,0.0
+a7jZszvFpTY,ok,Artistic Performance,medium,8.0,90.0,0.75,179,17,162,0,103,59,0,0,16.416,69.1,0,0,0.0,0.0
+a8IGDMrohnY,ok,Artistic Performance,medium,8.0,90.0,0.75,101,9,92,1,64,27,0,1,31.72,89.7,0,0,0.0,0.0
+ACvLYz9nHvg,ok,Sports Competition,medium,8.0,90.0,0.75,5,3,2,0,1,1,0,1,319.667,325.4,0,2,0.0,0.0
+awHc8IySU-I,ok,Sports Competition,medium,8.0,90.0,0.75,84,18,66,17,23,26,0,0,38.48,78.1,0,0,0.0,0.0
+bepwr1-CNRU,ok,Knowledge,medium,8.0,90.0,0.75,170,54,116,12,34,70,0,0,13.367,71.9,0,0,0.0,0.0
+biiLScgI3u4,ok,Life Record,medium,8.0,90.0,0.75,2,1,1,0,0,1,0,0,310.133,310.1,0,1,0.0,0.0
+c0siCya457M,ok,Film & Television,short,5.0,30.0,0.75,14,8,6,2,2,2,0,1,14.24,20.0,0,0,0.0,0.0
+Cb91B0wZYLE,ok,Artistic Performance,long,10.0,120.0,0.75,11,8,3,0,1,2,0,6,311.111,441.0,0,6,0.0,0.0
+D0ZMmQjKn2Q,ok,Artistic Performance,long,10.0,120.0,0.75,516,69,447,35,280,132,0,1,27.84,117.7,0,0,0.0,0.1
+DF_J3vCcbBA,ok,Knowledge,short,5.0,30.0,0.75,14,7,7,0,4,3,0,1,12.68,26.5,0,0,0.0,0.0
+DfZIv2FKWj4,ok,Sports Competition,medium,8.0,90.0,0.75,59,8,51,11,29,11,0,2,62.48,87.5,0,0,0.0,0.0
+ElWG0_kjy_Y,ok,Knowledge,long,10.0,120.0,0.75,203,59,144,13,71,60,0,0,20.821,112.8,0,0,0.0,0.0
+eZ5lFBPpRkM,ok,Life Record,long,10.0,120.0,0.75,879,168,711,5,263,442,1,0,17.751,55.1,0,0,0.0,0.1
+FkrIcmXvv18,ok,Artistic Performance,long,10.0,120.0,0.75,501,63,438,51,302,85,0,6,32.199,118.8,0,0,0.0,0.0
+FlcVBKTSjRs,ok,Life Record,short,5.0,30.0,0.75,2,2,0,0,0,0,0,0,37.704,37.7,0,1,0.0,0.0
+frX8GujpmkI,ok,Life Record,short,5.0,30.0,0.75,33,6,27,1,13,13,0,0,8.08,24.2,0,0,0.0,0.0
+G267g0DpCVg,ok,Film & Television,short,5.0,30.0,0.75,21,3,18,2,12,4,0,1,16.308,28.4,0,0,0.0,0.0
+g7PjwIzqyCQ,ok,Multilingual,short,5.0,30.0,0.75,21,9,12,0,6,6,0,0,6.94,19.0,0,0,0.0,0.0
+g8UiXbc19og,ok,Sports Competition,long,10.0,120.0,0.75,250,46,204,61,98,45,0,9,49.12,119.7,0,0,0.0,0.0
+gTPHH880Cyc,ok,Sports Competition,long,10.0,120.0,0.75,205,44,161,64,71,26,0,10,47.12,119.0,0,0,0.0,0.0
+HK13nVxBYxI,ok,Film & Television,medium,8.0,90.0,0.75,25,8,17,9,4,4,0,3,40.08,99.5,0,1,0.0,0.0
+IaTaaNinolU,ok,Knowledge,medium,8.0,90.0,0.75,5,5,0,0,0,0,0,2,48.448,224.4,0,2,0.0,0.0
+J5Npf2xJpag,ok,Knowledge,long,10.0,120.0,0.75,379,98,281,1,151,129,0,0,15.75,91.7,0,0,0.0,0.0
+jkNxmTrrZSk,ok,Knowledge,short,5.0,30.0,0.75,4,3,1,0,1,0,0,2,29.75,44.2,0,1,0.0,0.0
+K0mjUgHKfJo,ok,Knowledge,short,5.0,30.0,0.75,7,6,1,0,1,0,0,4,21.755,32.0,0,2,0.0,0.0
+K7YNoRZMv2k,ok,Life Record,long,10.0,120.0,0.75,271,64,207,16,108,83,0,1,20.4,93.8,0,0,0.0,0.0
+KlbDo9o5SC8,ok,Sports Competition,medium,8.0,90.0,0.75,210,31,179,4,121,54,0,1,17.0,88.9,0,0,0.0,0.0
+LCfBYE97rFk,ok,Knowledge,long,10.0,120.0,0.75,717,104,613,10,278,325,0,0,18.018,112.2,0,0,0.0,0.1
+LlajSKnbcGk,ok,Sports Competition,short,5.0,30.0,0.75,7,2,5,2,1,2,0,1,27.533,27.5,0,0,0.0,0.0
+lNvBXLbInXE,ok,Life Record,medium,8.0,90.0,0.75,188,38,150,7,72,71,0,0,16.56,73.7,0,0,0.0,0.0
+Lv7cYKTYE2g,ok,Multilingual,short,5.0,30.0,0.75,1,1,0,0,0,0,0,0,76.4,76.4,0,1,0.0,0.0
+M69Sn3OERZo,ok,Film & Television,short,5.0,30.0,0.75,17,3,14,2,4,8,0,0,14.0,21.3,0,0,0.0,0.0
+MaAv2IVzqhM,ok,Knowledge,medium,8.0,90.0,0.75,80,22,58,0,19,39,0,0,12.346,29.8,0,0,0.0,0.0
+md6mZDhuR9s,ok,Sports Competition,long,10.0,120.0,0.75,283,67,216,52,88,76,0,16,39.84,172.8,0,1,0.0,0.0
+mOiEOs3ZlT8,ok,Knowledge,long,10.0,120.0,0.75,652,100,552,3,231,318,0,0,16.266,66.3,0,0,0.0,0.0
+MPfuSfiZ96A,ok,Film & Television,short,5.0,30.0,0.75,30,9,21,0,7,14,0,0,7.2,13.2,0,0,0.0,0.0
+NEFG7YcIDcI,ok,Knowledge,short,5.0,30.0,0.75,8,5,3,1,0,1,1,2,8.475,46.9,0,1,0.0,0.0
+NeLj-gLWgug,ok,Life Record,medium,8.0,90.0,0.75,54,16,38,3,19,16,0,0,22.272,41.3,0,0,0.0,0.0
+O7zcPvQDIMU,ok,Knowledge,long,10.0,120.0,0.75,158,93,65,21,24,20,0,1,21.52,118.2,0,0,0.0,0.0
+OGQ7KwUXuBk,ok,Life Record,short,5.0,30.0,0.75,22,11,11,0,8,3,0,0,9.259,18.9,0,0,0.0,0.0
+ooqdg9Wr-mo,ok,Life Record,medium,8.0,90.0,0.75,224,38,186,0,61,124,1,0,12.479,25.6,0,0,0.0,0.0
+P69idA8JO98,ok,Artistic Performance,long,10.0,120.0,0.75,153,28,125,45,61,19,0,12,69.936,119.1,0,0,0.0,0.0
+pcm_E7UoKLo,ok,Artistic Performance,short,5.0,30.0,0.75,22,6,16,1,10,5,0,0,12.88,25.2,0,0,0.0,0.0
+qd2ivr-5oEM,ok,Film & Television,long,10.0,120.0,0.75,480,120,360,12,137,210,1,3,16.6,118.1,0,0,0.0,0.0
+QrmxMNBhH2Q,ok,Film & Television,medium,8.0,90.0,0.75,226,28,198,1,93,104,0,0,17.6,56.4,0,0,0.0,0.0
+QxYHkKLaFmY,ok,Film & Television,medium,8.0,90.0,0.75,184,15,169,5,126,38,0,2,29.029,89.2,0,0,0.0,0.0
+Qyg_91gNHCc,ok,Knowledge,short,5.0,30.0,0.75,28,10,18,5,7,6,0,0,11.0,21.1,0,0,0.0,0.0
+RgJVug6iNs8,ok,Artistic Performance,long,10.0,120.0,0.75,16,14,2,1,0,1,0,12,130.23,565.4,0,7,0.0,0.0
+RU8IfXp7LbE,ok,Life Record,short,5.0,30.0,0.75,33,8,25,0,11,14,0,0,10.01,15.1,0,0,0.0,0.0
+RwdvZLz-aSk,ok,Sports Competition,long,10.0,120.0,0.75,732,118,614,0,236,378,0,0,15.36,59.8,0,0,0.0,0.0
+S8w44Tl5atk,ok,Sports Competition,long,10.0,120.0,0.75,14,12,2,0,1,1,0,9,118.933,608.3,0,5,0.0,0.0
+SB4NLADmT_k,ok,Sports Competition,long,10.0,120.0,0.75,160,36,124,57,41,26,0,10,60.193,119.3,0,0,0.0,0.0
+SBssmtYTJpM,ok,Sports Competition,medium,8.0,90.0,0.75,107,21,86,4,43,39,0,0,15.92,81.8,0,0,0.0,0.0
+UIX6f0xMQ2U,ok,Sports Competition,medium,8.0,90.0,0.75,62,13,49,5,32,12,0,1,19.52,85.8,0,0,0.0,0.0
+URUJD5NEXC8,ok,Knowledge,medium,8.0,90.0,0.75,34,16,18,5,6,7,0,2,15.466,88.1,0,0,0.0,0.0
+uVR-DZQuRbM,ok,Life Record,short,5.0,30.0,0.75,54,10,44,0,17,27,0,0,9.84,15.9,0,0,0.0,0.0
+vDzNVHXc66U,ok,Life Record,long,10.0,120.0,0.75,79,27,52,21,13,17,1,13,81.6,172.5,0,3,0.0,0.0
+vf3sPa2W0sA,ok,Sports Competition,medium,8.0,90.0,0.75,44,8,36,7,17,12,0,1,29.433,83.5,0,0,0.0,0.0
+vzfTpidE5wg,ok,Life Record,long,10.0,120.0,0.75,203,52,151,16,53,82,0,3,32.165,141.1,0,1,0.0,0.0
+wGfRSojH0PE,ok,Sports Competition,short,5.0,30.0,0.75,11,4,7,2,2,2,1,3,21.48,39.0,0,1,0.0,0.0
+x-ccfWcbht4,ok,Life Record,medium,8.0,90.0,0.75,246,38,208,3,136,69,0,1,15.349,86.8,0,0,0.0,0.0
+Xjf5N9S3jAA,ok,Sports Competition,long,10.0,120.0,0.75,299,53,246,57,139,50,0,9,45.76,119.9,0,0,0.0,0.0
+xKiRmesHWIA,ok,Knowledge,long,10.0,120.0,0.75,64,39,25,0,15,10,0,2,34.0,197.9,0,1,0.0,0.0
+xvQOEdwAgj0,ok,Sports Competition,long,10.0,120.0,0.75,116,29,87,38,28,21,0,17,92.292,239.8,0,2,0.0,0.0
+y9Fne3oUwX4,ok,Life Record,long,10.0,120.0,0.75,506,90,416,54,245,117,0,3,29.52,119.0,0,0,0.0,0.0
+YlAefotZNAc,ok,Film & Television,short,5.0,30.0,0.75,9,6,3,1,0,2,0,2,18.16,36.6,0,1,0.0,0.0
+YPaLGP_xr-w,ok,Knowledge,short,5.0,30.0,0.75,48,10,38,0,19,19,0,1,7.341,28.3,0,0,0.0,0.0
+YtAL8y2lACs,ok,Knowledge,long,10.0,120.0,0.75,969,127,842,8,409,424,1,0,16.817,75.7,0,0,0.0,0.0
+zIbNJCSCEjk,ok,Knowledge,medium,8.0,90.0,0.75,110,27,83,3,30,50,0,0,19.103,62.1,0,0,0.0,0.0
+ZQIZx5Oqw88,ok,Sports Competition,medium,8.0,90.0,0.75,58,14,44,20,13,11,0,4,37.92,86.0,0,0,0.0,0.0
