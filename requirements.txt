@@ -1,0 +1,18 @@
+# Video decoding (bundles FFmpeg, no system install needed)
+av>=12
+numpy
+pillow
+
+# Step 2: TransNet V2 shot detection (weights ship inside the package)
+torch>=2.1
+transnetv2-pytorch
+
+# Step 3: CLIP image embeddings for merging
+open_clip_torch
+
+# Dataset download
+huggingface_hub>=0.23
+
+# Only for the optional question test (src/qa_test.py)
+transformers>=4.57
+accelerate

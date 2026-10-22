@@ -1,0 +1,15 @@
+# Fill this in before you submit -- our evaluator runs these commands
+# EXACTLY as written, in this order, from a fresh checkout of your fork.
+# Keep every command non-interactive (no prompts) and idempotent.
+
+setup_commands:
+  - "pip install -r requirements.txt"
+  - "python src/download_data.py --out data/vmme"
+
+run_commands:
+  - "python src/main.py --data data/vmme --work work"
+
+test_commands:
+  - "python src/check.py --work work"
+
+notes: "CPU is enough; a GPU is used automatically if present. Needs internet on first run: the dataset comes from Hugging Face (aintropy-ai/video-mme-sample10), and the CLIP weights (open_clip ViT-B-32, laion2b_s34b_b79k, ~600 MB) download on first use. TransNet V2 weights ship inside the transnetv2-pytorch package, and decoding uses PyAV, so no system ffmpeg is needed. By default setup downloads a 3-video sample (one short, one medium, one long: about 47 min of video), and the pipeline takes roughly 15-30 min on an 8-core CPU. For all 90 videos (~11 GB, ~26 h of video, several hours on CPU), use 'python src/download_data.py --out data/vmme --all' instead; the run command is unchanged. Main output: work/chunks.jsonl (one record per chunk: start/end, 1 s padded window, shot count, subtitle text, boundary reason). Rerunning skips finished work. Optional question-answering test (Qwen3-VL-2B, slow on CPU, ~1 min per answer): 'python src/qa_test.py --work work --data data/vmme --per-video 1'."
