@@ -32,6 +32,7 @@ src/
   export.py              Step 8: write work/chunks.jsonl and work/chunks.csv (the hand-off to the indexer)
   check.py               sanity checks: coverage, length limits, mid-sentence cuts vs 30 s windows, outliers
   qa_test.py             question test: Qwen3-VL answers the dataset's questions from the top 3 chunks
+final_metrics/           precomputed outputs and logs from the full 90-video run (see below)
 ```
 
 ## Quick start
@@ -48,12 +49,38 @@ python src/check.py --work work
 Every step skips videos it has already finished, so reruns are safe. Optional question test (slow on CPU):
 `python src/qa_test.py --work work --data data/vmme --per-video 1`
 
+The default 3-video sample should give 3, 31 and 104 chunks (`chunks_out` in `work/snap_log.csv`), the same as the rows for those videos in `final_metrics/snap_log.csv`. A difference of 1–2 chunks can come from a different torch version or CPU.
+
 ## Output format
 
 `work/chunks.jsonl` has one JSON record per chunk:
 `video_id`, `chunk_id`, `start`, `end`, `padded_start`, `padded_end`, `n_shots`, `subtitle_text`, `boundary_reason` (`video start` / `shot` / `split`), `snapped`, `domain`, `tier`.
+Each record also has `duration`, `start_at` / `end_at` (readable times), `boundary_detail` and `snapped_from`.
+
+## Precomputed results (`final_metrics/`)
+
+The full pipeline takes several hours on a CPU, so the outputs of our run on all 90 videos (`download_data.py --all`, then `main.py`, then `qa_test.py --per-video 1`) are included in `final_metrics/`. You can check every number in the Results section against them without rerunning anything. The files have the same names and columns as the ones the pipeline writes to `work/`.
+
+| File | Rows | What it holds |
+|---|---|---|
+| `chunks.jsonl` | 2,903 | the final chunks, one JSON record per chunk (format above) |
+| `chunks.csv` | 2,903 | the same chunks as a table, for Excel |
+| `probe.csv` | 90 | per video: codec, resolution, fps, duration, audio, subtitle lines, decode time (Steps 0–1) |
+| `shots_summary.csv` | 90 | per video: cut threshold, shots found, shots per minute, median shot length (Step 2) |
+| `merge_log.csv` | 90 | per video: shots in, chunks out, cuts removed and why (Step 3) |
+| `merge_events.csv` | 11,392 | every cut considered by the merge: merged (similar / too short) or kept, with CLIP similarity |
+| `split_log.csv` | 90 | per video: chunks over the max length and the cuts added to split them (Step 4) |
+| `split_cuts.csv` | 117 | every split cut: where, and how it was placed (subtitle pause 53, silence 40, line break 10, even split 14) |
+| `snap_log.csv` | 90 | per video: boundaries inside speech, how many were snapped, average shift, final chunk count (Step 5) |
+| `snap_moves.csv` | 2,091 | every boundary that fell inside speech: snapped to a pause (1,624) or kept, and why (467) |
+| `check_report.csv` | 90 | per video: PASS / WARN / FAIL verdict with reasons, coverage and length-limit problems, mid-sentence share |
+| `check_summary.csv` | 17 | the same checks per domain and tier, plus an `ALL` row |
+| `qa_results.jsonl` | 276 | every question-answering attempt: 92 questions × 3 methods, with the chunks used, the model's reply and whether it was right |
+| `qa_summary.csv` | 21 | QA accuracy per method, overall and by domain, tier and task type |
 
 ## Results (all 90 videos)
+
+All numbers below come from the files in `final_metrics/`.
 
 ### Chunks
 
