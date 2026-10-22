@@ -113,7 +113,7 @@ Measured on an ordinary desktop CPU (no GPU), with 2 videos processed in paralle
 
 ## Known limits
 
-- **Fixed cameras** (surveillance, meetings without slides): TransNet V2 finds almost no cuts, so chunks come only from the length cap. These need an activity- or speech-based splitter.
+- **Fixed cameras** (surveillance, meetings without slides): TransNet V2 finds almost no cuts, so chunks come only from the length cap. These need an activity- or speech-based splitter, which would require a hybrid approach involving a router which was deliberately not chosen.
 - **Sparse subtitles:** when the nearest line break is more than 1.5 s away, the camera cut wins and the boundary stays mid-sentence.
 - **Domain labels** come from the dataset. A real customer corpus would need a cheap property probe (cut rate, speech share, camera motion) to choose the thresholds.
 - **Thresholds** (0.5 / 0.6 for cuts, 0.75 for merging, tier lengths) are starting values, not tuned on held-out data.
