@@ -81,15 +81,23 @@ Rolling-caption handling made a big difference. Before it, only 23% of mid-sente
 
 ### Question answering (`qa_test.py`)
 
-Qwen3-VL-2B-Instruct (CPU) answers each multiple-choice question using only the top 3 chunks, ranked by the same CLIP + BM25 retriever for every method. Each chunk contributes up to 8 frames plus its subtitles. One question per video (90 questions).
+Qwen3-VL-2B-Instruct (CPU) answers each multiple-choice question using only the top 3 chunks, ranked by the same CLIP + BM25 retriever for every method. Each chunk contributes up to 8 frames plus its subtitles. 92 questions: 1 per video, plus 2 extra from the trial run.
 
-| Method | Accuracy |
-|---|---|
-| **Ours** (final chunks) | _TBD_ |
-| Fixed 30 s windows | _TBD_ |
-| Raw TransNet V2 shots | _TBD_ |
+| Method | All questions | Moment questions only |
+|---|---|---|
+| **Ours** (final chunks) | **53.3%** (49/92) | **55.0%** (33/60) |
+| Fixed 30 s windows | 51.1% (47/92) | 46.7% (28/60) |
+| Raw TransNet V2 shots | 48.9% (45/92) | 48.3% (29/60) |
 
-A small model scores lower than a large one in absolute terms. Every method uses the same model, so the comparison between methods is fair. Raw shots get fewer frames per chunk because their chunks are only a few seconds long, which is part of what this test measures.
+Random guessing scores 25%. A small model scores lower than a large one in absolute terms. Every method uses the same model, so the comparison between methods is fair.
+
+#### Moment questions only
+
+Moment questions are Object Recognition, Attribute Perception, Object Reasoning, Temporal Reasoning, OCR Problems, Action Recognition, Action Reasoning, Spatial Reasoning and Spatial Perception. 32 questions are left out: Information Synopsis (19) and Counting Problem (13). The test shows the model only the top 3 chunks, about a minute or two of video, but these two types need evidence spread across the whole video ("what is this video about", "how many times..."). No method that picks 3 chunks can see that, whatever the chunking, so these questions measure the top-3 test setup rather than chunk quality. A real system would answer them from a video-level summary or by reading all chunks.
+
+On the same moment questions, ours was right where fixed windows were wrong 7 times, and the reverse happened 2 times. Against raw shots it was 10 vs 6. The direction is consistent, but with 60 questions the difference is not statistically significant (McNemar p ≈ 0.18 vs fixed windows). We read it as "at least as good, likely better", not as a proven gain.
+
+Our chunks match or beat raw shots on accuracy while producing 4.8× fewer chunks (112 vs 539 per hour) and cutting through a sentence far less often (19% vs 88% for fixed windows). The merge, split and snap steps reduce indexing cost without losing answerability.
 
 ### Boundary F1
 
