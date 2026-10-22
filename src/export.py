@@ -1,5 +1,5 @@
 """
-Step 8 of the video chunking pipeline (see final-approach.md): write the final output.
+Step 8 of the video chunking pipeline : write the final output.
 
 Input, per video:
     <work>/<video_id>/snapped.json  the final chunks (snap.py)
@@ -40,7 +40,7 @@ from chunk_common import clock, read_json, write_csv
 # Settings
 # ----------------------------------------------------------------------------
 
-PADDING = 1.0     # seconds of context added on each side (final-approach.md, Step 8)
+PADDING = 1.0     # seconds of context added on each side 
 
 
 # ----------------------------------------------------------------------------

@@ -1,5 +1,5 @@
 """
-Step 5 of the video chunking pipeline (see final-approach.md): snap boundaries to sentences.
+Step 5 of the video chunking pipeline: snap boundaries to sentences.
 
 Input, per video:
     <work>/<video_id>/split.json    the chunks after Step 4 (split.py)

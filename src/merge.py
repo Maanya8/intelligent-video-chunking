@@ -1,5 +1,5 @@
 """
-Step 3 of the video chunking pipeline (see final-approach.md): merge similar neighbouring shots.
+Step 3 of the video chunking pipeline : merge similar neighbouring shots.
 
 Input, per video (from earlier steps):
     <work>/<video_id>/shots.json         the shots from Step 2 (shots.py)

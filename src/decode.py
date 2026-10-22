@@ -1,5 +1,5 @@
 """
-Steps 0 and 1 of the video chunking pipeline (see final-approach.md).
+Steps 0 and 1 of the video chunking pipeline .
 
   Step 0 - Probe:  read basic facts about each video (length, fps, size, audio),
                    load its subtitles, and look up its domain and duration tier.

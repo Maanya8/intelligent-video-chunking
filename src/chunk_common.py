@@ -12,7 +12,7 @@ from pathlib import Path
 
 
 # ----------------------------------------------------------------------------
-# Chunk length limits per duration tier (final-approach.md, Step 6)
+# Chunk length limits per duration tier 
 # ----------------------------------------------------------------------------
 
 # tier -> (min seconds, max seconds)

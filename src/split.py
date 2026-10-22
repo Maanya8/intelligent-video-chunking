@@ -1,5 +1,5 @@
 """
-Step 4 of the video chunking pipeline (see final-approach.md): split chunks that are too long.
+Step 4 of the video chunking pipeline: split chunks that are too long.
 
 Input, per video (from earlier steps):
     <work>/<video_id>/merged.json   Step 3 output, if it exists (its "chunks" list)

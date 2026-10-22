@@ -1,5 +1,5 @@
 """
-Run the whole video chunking pipeline (see final-approach.md) with one command.
+Run the whole video chunking pipeline with one command.
 
 Steps, in order (each one is its own script in this folder):
     decode   Steps 0-1  probe each video and decode it once      (decode.py)

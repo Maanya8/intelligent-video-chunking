@@ -1,5 +1,5 @@
 """
-Step 2 of the video chunking pipeline (see final-approach.md): find the camera cuts.
+Step 2 of the video chunking pipeline : find the camera cuts.
 
 Input:  the output of decode.py (Steps 0-1), one folder per video:
             <work>/<video_id>/frames_48x27.npy   every frame, 48x27 RGB

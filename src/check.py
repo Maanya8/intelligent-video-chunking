@@ -1,5 +1,5 @@
 """
-Layer 1 of the test plan (see final-approach.md, section 5): sanity checks on the final chunks.
+Layer 1 of the test plan : sanity checks on the final chunks.
 
 Input, per video:
     <work>/<video_id>/snapped.json  the final chunks (snap.py)
@@ -54,7 +54,7 @@ LIMIT_TOLERANCE = 0.01   # rounding slack when comparing a length to min/max
 LINE_TOLERANCE = 0.05    # a boundary this close to the start/end of a line counts as "between lines" (same as snap.py)
 BASELINE_WINDOW = 30.0   # fixed-window baseline for the mid-sentence comparison
 
-# Outlier rules (final-approach.md, section 5, Layer 1)
+# Outlier rules
 LONG_MIN_CHUNKS = 5            # a long video (30-60 min) with fewer chunks than this is suspicious
 SHORT_MAX_CHUNKS = 15          # a short video (< 2 min) with more chunks than this is suspicious
 RATE_FACTOR = 2.5              # chunks per minute this many times above/below the median of the same domain and tier

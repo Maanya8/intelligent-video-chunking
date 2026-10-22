@@ -1,5 +1,5 @@
 """
-Layer 3 of the test plan (see final-approach.md, section 5): can a model answer
+Layer 3 of the test plan : can a model answer
 the dataset's questions from only the top 3 chunks?
 
 This is the "real" test. It compares chunking methods by how useful their
